@@ -1,5 +1,5 @@
 # IMDB movie review sentiment classification
-Use IMDB movie reviews to classify the sentiment, either positive or negative
+Use IMDB movie reviews to classify the sentiment, either positive or negative  
 Credit: Deep Learning with Python by Jason Brownlee  
 
 ## EDA
